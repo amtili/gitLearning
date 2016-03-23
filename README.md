@@ -2,4 +2,4 @@
 learn git knowledge.
 1.test1
 2.git branch, switch to dev
-4.add a line in master branch
+3.4. master and feature1 branch are merged manually.
