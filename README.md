@@ -6,3 +6,4 @@ learn git knowledge.
 2016.03.24
 3.branch.
 4.branch, merge --no-ff
+5.in test3 branch, 
