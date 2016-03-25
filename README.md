@@ -8,3 +8,4 @@ learn git knowledge.
 4.branch, merge --no-ff(fix a bug in bugFix branch, with git stash)
 5.in test3 branch, 
 
+6. 9:34. a.m.
